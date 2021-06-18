@@ -1,8 +1,8 @@
 # CarGame
 Стардатная игра на HTML &amp; JS.
 
+Сайт игры:
 - https://itsdominus.github.io/CarGame/
-- Сайт игры.
 
-- Авторы:
+Авторы:
 - whoname00 & Vasyajopa228
