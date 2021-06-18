@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700');
+body{
+  font-family:'Roboto';
+  background-color: #303030;
+}
+h1{
+  user-select: none;
+  color: white;
+  font-size: 78px;
+}
+h2{
+  user-select: none;
+  color: white;
+  font-size: 23px;
+}
+h3{
+  user-select: none;
+  color: white;
+  font-size: 17px;
+}
+hr{
+  user-select: none;
+  color: grey;
+}
